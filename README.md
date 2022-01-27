@@ -22,7 +22,7 @@ I'm a Data Scientist and Researcher interested in Machine Learning, Natural Lang
 ### 👨‍💻 Professional Experience
 
 * Oct. 2021 - Present, Data Scientist @ [PicPay](https://www.picpay.com/site) | Working with Search Systems to improve customer experience and search efficiency.  
-* July 2019 - Oct. 2021, Data Scientist @ [Birdie.ai](https://birdie.ai/) | Applying state-of-the-art NLP solutions product-oriented opinion mining.
+* July 2019 - Oct. 2021, Data Scientist @ [Birdie.ai](https://birdie.ai/) | Applying state-of-the-art NLP solutions to product-oriented opinion mining.
 
 ### 📌 Other Links
 
