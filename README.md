@@ -1,5 +1,5 @@
 ### 👋 About Me
-My name is João Augusto Leite, I live in São Carlos - São Paulo (Brazil) and I'm 24 years old.
+My name is João Augusto Leite, I live in São Carlos - São Paulo (Brazil) and I'm 25 years old.
 
 I'm a Data Scientist and Researcher interested in Machine Learning, Natural Language Processing and Opinion Mining topics.
 
