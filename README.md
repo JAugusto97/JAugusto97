@@ -1,11 +1,10 @@
 ### 👋 About Me
-My name is João Augusto Leite, I live in São Carlos - São Paulo (Brazil) and I'm 25 years old.
-
-I'm a Data Scientist and Researcher interested in Machine Learning, Natural Language Processing and Opinion Mining topics.
+My name is João Augusto Leite, I am a Brazilian Data Scientist and Researcher living in Sheffield (UK). My interests are in Machine Learning, Natural Language Processing, Graphs, Opinion Mining, Disinformation and Reinforcement Learning.
 
 ### 👨‍🎓 Education
 
-* Sep. 2021 - Present, Msc. in Natural Language Processing, Universidade Federal de São Carlos.
+* Nov. 2022 - Present, PhD. in Computer Science (ML), University of Sheffield.
+* Sep. 2021 - Present, Msc. in Computer Science (ML), Universidade Federal de São Carlos.
 * Jan. 2017 - July 2021, Bsc. in Computer Science, Universidade Federal de São Carlos.
 
 ### 🏆 Awards & Accomplishments
