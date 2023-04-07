@@ -1,5 +1,5 @@
 ### 👋 About Me
-My name is João Augusto Leite, I am a Brazilian Data Scientist and Researcher living in Sheffield (UK). My interests are in Machine Learning, Natural Language Processing, Graphs, Opinion Mining, Disinformation and Reinforcement Learning.
+My name is João Augusto Leite, I am a Brazilian Data Scientist and Researcher living in Sheffield (UK). My interests are in Machine Learning, Natural Language Processing, Graphs, Opinion Mining, Automatic Verification and Reinforcement Learning.
 
 ### 👨‍🎓 Education
 
