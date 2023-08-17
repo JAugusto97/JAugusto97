@@ -11,4 +11,4 @@ My main interests are in the areas of machine Learning, natural language process
 
 ### 📧 Contact
 * [Twitter](https://twitter.com/joaoaleite)
-* [Email](jaleite1@sheffield.ac.uk)
+* Email: jaleite1@sheffield.ac.uk
