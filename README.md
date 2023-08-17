@@ -1,5 +1,5 @@
 ### 👋 About Me
-My main interests are in the areas of machine Learning, natural language processing, graphs, opinion mining, automatic verification, reinforcement learning and label-efficient learning techniques.
+My main interests are in the areas of machine learning, natural language processing, graphs, opinion mining, automatic verification, reinforcement learning and label-efficient learning techniques.
 
 ### 🔬 Research
 
