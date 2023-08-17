@@ -8,3 +8,7 @@ My main interests are in the areas of machine Learning, natural language process
 ### 👨‍💻 CV
 
 * [LinkedIn](https://www.linkedin.com/in/joao-augusto-leite/)
+
+### 📧 Contact
+* [Twitter](https://twitter.com/joaoaleite)
+* [Email](jaleite1@sheffield.ac.uk)
